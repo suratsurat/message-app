@@ -4,7 +4,6 @@ import SignUp from "./Components/SignUp";
 import SignIn from "./Components/SignIn";
 import Chat from "./Components/Chat";
 import Message from "./Components/Message";
-// import { ToastContainer } from "react-toastify";
 
 function App() {
 
